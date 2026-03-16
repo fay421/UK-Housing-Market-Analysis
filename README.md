@@ -1,4 +1,4 @@
-## Image 
+## Covid Shock in 2020
 ![Covid Shock in 2020](images/q9_Covid%20Shock%20Crises.JPG)
 
 
