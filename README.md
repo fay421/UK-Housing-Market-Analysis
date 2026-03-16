@@ -1,3 +1,7 @@
+## Image 
+![Covid Shock in 2020](images/q9_Covid%20Shock%20Crises.JPG)
+
+
 UK Housing Market Analysis: Price Dynamics and COVID Shock
 (SQL + Tableau)
 Project Overview
